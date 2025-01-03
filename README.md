@@ -47,7 +47,13 @@ The dataset is available in:
 
 ## Publicly Available Datasets
 
-The paper provides a curated list of publicly available datasets relevant to AR/VR/MR research. You can access the dataset directly via the following link: [Public Dataset](https://docs.google.com/spreadsheets/d/1abiSfn5YXKCcLC_nPVqSEq4MDGtws_4Q/edit?usp=sharing&ouid=111444831872117595255&rtpof=true&sd=true).
+The paper provides a curated list of publicly available datasets relevant to AR/VR/MR research. You can access the dataset directly via the following link: [Public Dataset](https://github.com/srgdshaon/test/blob/main/PublicDatasets.md).
+
+## List of Reviewed Papers
+
+We have reviewd 154 papers, where 90 papers are from ISMAR, and 64 papers are from IEEE VR. Following are the datasets: 
+[IEEE VR](https://github.com/smasish/ISMAR_IEEEVR_REVIEW/blob/main/AllPapersWithAuthors_IEEEVR.md)
+[ISMAR](https://github.com/smasish/ISMAR_IEEEVR_REVIEW/blob/main/AllPapersWithAuthors_ISMAR.md).
 
 ## Licensing
 
