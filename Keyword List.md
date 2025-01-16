@@ -4,54 +4,21 @@ The following keywords were employed to filter papers related to machine learnin
 
 ---
 
-- **adversarial**
-- **ann**
-- **artificial**
-- **attention**
-- **autoregressive**
-- **boosting**
-- **classification**
-- **classifier**
-- **classify**
-- **cnn**
-- **convolution**
-- **convolutional**
-- **deep learning**
-- **detection**
-- **dl**
-- **gan**
-- **generative**
-- **graph**
-- **gru**
-- **hmm**
-- **k-nearest**
-- **knn**
-- **lasso**
-- **least**
-- **least square**
-- **logistic**
-- **lstm**
-- **machine learning**
-- **ml**
-- **neural**
-- **network**
-- **perceptron**
-- **prediction**
-- **random forest**
-- **rbf**
-- **regression**
-- **reinforcement**
-- **ridge**
-- **rl**
-- **rnn**
-- **segmentation**
-- **semantic**
-- **short-term**
-- **support vector**
-- **svm**
-- **transformer**
-- **tree**
-- **xgboost**
+| Keyword | Keyword | Keyword | Keyword |
+|---------|---------|---------|---------|
+| adversarial | detection | lstm | ridge |
+| ann | dl | machine learning | rl |
+| artificial | gan | ml | rnn |
+| attention | generative | neural | segmentation |
+| autoregressive | graph | network | semantic |
+| boosting | gru | perceptron | short-term |
+| classification | hmm | prediction | support vector |
+| classifier | k-nearest | random forest | svm |
+| classify | knn | rbf | transformer |
+| cnn | lasso | regression | tree |
+| convolution | least | reinforcement | xgboost |
+| convolutional | least square | | |
+| deep learning | logistic | | |
 
 ---
 
